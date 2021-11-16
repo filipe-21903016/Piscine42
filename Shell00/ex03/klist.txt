@@ -1,0 +1,6 @@
+Credentials cache: API:9C5C8126-26C1-494B-8B41-44E63F29D781
+        Principal: fzarco-l@42LISBOA.COM
+
+  Issued                Expires               Principal
+Aug  3 15:06:27 2021  Aug  4 01:06:27 2021  krbtgt/42LISBOA.COM@42LISBOA.COM
+Aug  3 15:06:29 2021  Aug  4 01:06:27 2021  HTTP/student-storage.42lisboa.com@42LISBOA.COM
